@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Cache directories — generated at runtime
+cache/
+
+# Generated reports — too large for version control
+outputs/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
