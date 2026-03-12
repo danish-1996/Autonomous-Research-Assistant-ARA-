@@ -119,18 +119,6 @@ Open your browser at `http://localhost:7860`
 
 ---
 
-## Development Milestones
-
-- [x] Milestone 1 — arXiv search tool
-- [ ] Milestone 2 — PDF fetcher with disk cache
-- [ ] Milestone 3 — LLM summarizer with JSON validation
-- [ ] Milestone 4 — Theme clustering and gap analyzer
-- [ ] Milestone 5 — Report generator
-- [ ] Milestone 6 — Gradio UI
-- [ ] Milestone 7 — GitHub polish and example outputs
-
----
-
 ## License
 
 [MIT](LICENSE)
